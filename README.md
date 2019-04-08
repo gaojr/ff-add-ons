@@ -1,6 +1,6 @@
 # ff-add-ons
 
-Firefox 扩展 备份
+Firefox 扩展备份
 
 ## Stylus
 
