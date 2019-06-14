@@ -1,0 +1,33 @@
+.markdownRoot {
+    margin: 0 auto;
+    max-width: 1200px;
+    font-family: "Microsoft YaHei", Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.5;
+    color: #333;
+}
+.markdownRoot h1,
+.markdownRoot h2,
+.markdownRoot h3,
+.markdownRoot h4,
+.markdownRoot h5,
+.markdownRoot h6 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.markdownRoot p {
+    margin: 1rem;
+}
+.markdownRoot a {
+    color: #08C;
+    text-decoration: none;
+}
+.markdownRoot pre,
+.markdownRoot code {
+    font-family: "FiraCode QiHei NF", "PT Mono", "Fira Code", Monaco, "Courier New", monospace;
+    white-space: pre-wrap;
+    word-wrap: normal;
+}
+.markdownRoot blockquote {
+    border-left: 5px solid #EEE;
+    margin: 0;
+    padding: 0 10px;
+}
