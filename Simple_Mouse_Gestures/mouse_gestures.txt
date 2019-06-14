@@ -1,0 +1,261 @@
+{
+    "scrltop": [
+        [
+            {
+                "char": "d",
+                "ctrl": false,
+                "meta": false,
+                "shift": false
+            },
+            {
+                "char": "u",
+                "ctrl": false,
+                "meta": false,
+                "shift": false
+            }
+        ]
+    ],
+    "scrlbottom": [
+        [
+            {
+                "char": "u",
+                "ctrl": false,
+                "meta": false,
+                "shift": false
+            },
+            {
+                "char": "d",
+                "ctrl": false,
+                "meta": false,
+                "shift": false
+            }
+        ]
+    ],
+    "reload": null,
+    "backhistory": [
+        [
+            {
+                "char": "l",
+                "ctrl": false,
+                "meta": false,
+                "shift": true
+            }
+        ]
+    ],
+    "forwardhistory": [
+        [
+            {
+                "char": "r",
+                "ctrl": false,
+                "meta": false,
+                "shift": false
+            }
+        ]
+    ],
+    "closectab": [
+        [
+            {
+                "char": "l",
+                "ctrl": false,
+                "meta": false,
+                "shift": false,
+                "url": "https://www.google.com/search?q="
+            },
+            {
+                "char": "r",
+                "ctrl": false,
+                "meta": false,
+                "shift": false,
+                "url": "https://www.google.com/search?q="
+            }
+        ]
+    ],
+    "restoretab": [
+        [
+            {
+                "char": "r",
+                "ctrl": false,
+                "meta": false,
+                "shift": false,
+                "url": "https://www.google.com/search?q="
+            },
+            {
+                "char": "l",
+                "ctrl": false,
+                "meta": false,
+                "shift": false,
+                "url": "https://www.google.com/search?q="
+            }
+        ]
+    ],
+    "openurlcrnt": null,
+    "searchweb": null,
+    "searchwebcrnt": null,
+    "linklabelnext": null,
+    "linklabelprev": null,
+    "capfull": null,
+    "caphalf": null,
+    "openoptpage": null,
+    "__sd__ddopencrnt": [
+        [
+            {
+                "char": "u",
+                "ctrl": false,
+                "meta": false,
+                "shift": false
+            }
+        ]
+    ],
+    "__sd__ddopennew": [
+        [
+            {
+                "char": "r",
+                "ctrl": false,
+                "meta": false,
+                "shift": false
+            }
+        ]
+    ],
+    "__sd__ddopennewbg": [
+        [
+            {
+                "char": "l",
+                "ctrl": false,
+                "meta": false,
+                "shift": false
+            }
+        ]
+    ],
+    "__sd__sendurlnew": null,
+    "__sd__ddimgsave": [
+        [
+            {
+                "char": "d",
+                "ctrl": false,
+                "meta": false,
+                "shift": false
+            }
+        ]
+    ],
+    "__sd__ddimgcopyurl": [
+        [
+            {
+                "char": "u",
+                "ctrl": false,
+                "meta": false,
+                "shift": false
+            }
+        ]
+    ],
+    "__sd__ddimgsearchimg": null,
+    "__sd__ddimageview": [
+        [
+            {
+                "char": "r",
+                "ctrl": false,
+                "meta": false,
+                "shift": false
+            }
+        ]
+    ],
+    "__sd__ddtxtsearchcrnt": null,
+    "__sd__ddtxtsearchnew": [
+        [
+            {
+                "char": "r",
+                "ctrl": false,
+                "meta": false,
+                "shift": false,
+                "url": "https://cn.bing.com/search?q="
+            }
+        ]
+    ],
+    "__sd__ddtxtsearchbg": [
+        [
+            {
+                "char": "l",
+                "ctrl": false,
+                "meta": false,
+                "shift": false,
+                "url": "https://cn.bing.com/search?q="
+            }
+        ]
+    ],
+    "__sd__ddtxtcopy": [
+        [
+            {
+                "char": "d",
+                "ctrl": false,
+                "meta": false,
+                "shift": false
+            }
+        ]
+    ],
+    "ignoreurlary": [],
+    "__sd__ignoreurlary": [],
+    "autofocus": false,
+    "kinpttime": 700,
+    "hintsize": 12,
+    "showclock": false,
+    "hstrside": "right",
+    "searchstart": 2,
+    "searchopt": "i",
+    "cmdpos": "bl",
+    "on": true,
+    "scrval": 50,
+    "smscroll": true,
+    "nextstrings": "next,next »,next >>,next ≫,next >>,>,→,»,≫,>>",
+    "prevstrings": "prev,previous,« prev,<< prev,<< previous,« previous,« back,back,<,←,«,≪,<<",
+    "nextstringsid": "",
+    "prevstringsid": "",
+    "faildpopup": true,
+    "rocker": false,
+    "tablist": false,
+    "longpress": false,
+    "dragitem": {
+        "on": true,
+        "link": true,
+        "img": true,
+        "txt": true
+    },
+    "multiselect": {
+        "on": false,
+        "not": "2",
+        "ctrl": "1",
+        "shift": "2",
+        "alt": "3",
+        "lazy": true,
+        "hintsizew": 20,
+        "hintsizeh": 18,
+        "disablesmart": false,
+        "detectval": "350",
+        "activekey": "none",
+        "excpetoptionarray": []
+    },
+    "fixlinux": false,
+    "dbclicktime": 500,
+    "mvvalue": 20,
+    "visualized_arrow": true,
+    "paint": true,
+    "mouse_track": true,
+    "bordercolor": "#0080ff",
+    "borderwidth": 3,
+    "actionname": true,
+    "mbutton": 2,
+    "rockerf": "forwardhistory",
+    "rockerfurl": "http://www.google.com/",
+    "rockerb": "backhistory",
+    "rockerburl": "http://www.youtube.com/",
+    "longpressl": "__sd__ddopennewbg",
+    "longpresslurl": "http://www.readability.com/m?url=",
+    "longpressm": "__sd__ddopennew",
+    "longpressmurl": "http://mobilizer.instapaper.com/m?u=",
+    "longpressr": "__sd__ddopencrnt",
+    "longpressrurl": "http://s.evernote.com/grclip?url=",
+    "exceptflag": true,
+    "tablistbutton": 2,
+    "tablisact": "tabwheel",
+    "win": true,
+    "openreurlcrnt": null,
+    "openreurlnewtab": null
+}
