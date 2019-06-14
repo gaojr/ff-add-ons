@@ -1,0 +1,217 @@
+[
+	{
+		"installDate": 1531212447336,
+		"sections": [
+			{
+				"code": "@namespace url(http://www.w3.org/1999/xhtml);",
+				"urls": [],
+				"urlPrefixes": [],
+				"domains": [
+					"jjwxc"
+				],
+				"regexps": []
+			},
+			{
+				"code": "/*Font table*/*{font-family:\"Microsoft Yahei\",Arial,Helvetica,sans-serif !important;}/*hide advertisement*/EMBED[hidden=\"TRUE\"],IMG[height=\"90\"][width=\"250\"],IMG[height=\"250\"][width=\"180\"],IMG[width=\"728\"][height=\"90\"],IMG[width=\"720\"][height=\"40\"],IFRAME[height=\"60\"],#hidden_adp,#abgi,#att,#adp_jjwxc_sypdy_DBZC_468_60,#google_ads_iframe_jjwxc_channel_728_60_2,#google_ads_iframe_jjwxc_channel_240_60,#google_ads_iframe_jjwxc_qz_gg_728_90{display:none !important;}",
+				"urls": [],
+				"urlPrefixes": [],
+				"domains": [
+					"jjwxc.net"
+				],
+				"regexps": []
+			},
+			{
+				"code": "/*background color*/body{background-color:#C7EDCC !important;}/*text font size*/DIV.noveltext{font-size:14px !important;}DIV[style=\"float:left;width:480px;padding-left:70px;font-size:16px;\"]{padding:15px 0px 30px !important;font-size:20px !important;width:100% !important;font-weight:bold !important;}DIV[style=\"float:left;width:330px;\"]{width:600px !important;}/*Hide advertising,report pictures,footers,etc*/IFRAME,DIV.tc,DIV#uptown,DIV.zero,TABLE[width=\"984\"][bgcolor=\"#ffffff\"],#adp_jjwxc_onebook_300_250,#adp_jjwxc_onebook_EBD_720_40,#adp_h_jjwxc_onebook_yc_180_320,#adp_jjwxc_onebook_print_720_40,#adp_jjwxc_onebook_250_90,DIV[style=\"float:left;width:160px;height:70px;\"],DIV.adp_hidden,IMG[src=\"http://static.jjwxc.net/images/bo.gif\"],/*Report picture*/DIV#footer,/*footer*/DIV.noveltext>FONT[color] /*Hidden interference code,replication still has*/{display:none !important}/*Internal and external margin adjustment*/DIV.controlbar{margin-top:20px !important;padding:1px 1px 5px 9px !important;}#publishcomment{margin-top:20px !important;}TABLE.cytable{margin-top:15px !important;}DIV.readsmall{margin-top:70px !important;} /*Other*/TEXTAREA#commentbody{width:100% !important;}DIV.noveltext>FONT[color=\"red\"]{display:inline !important;}/*VIP page picture adjustment*/DIV.noveltext>IMG[align=\"bottom\"]{width:20px;height:20px;}",
+				"urls": [],
+				"urlPrefixes": [
+					"http://www.jjwxc.net/onebook.php",
+					"http://my.jjwxc.net/onebook_vip.php"
+				],
+				"domains": [],
+				"regexps": []
+			},
+			{
+				"code": "body{background-color:#C7EDCC !important;}IFRAME,DIV#footer{display:none !important}",
+				"urls": [],
+				"urlPrefixes": [
+					"http://my.jjwxc.net/"
+				],
+				"domains": [],
+				"regexps": []
+			},
+			{
+				"code": "body{background-color:#C7EDCC !important;}IFRAME,#hidden_adp,#footer{display:none !important}.searchContainer{padding:15px !important;/*background-color:#ffffff !important;*/}hr{border-top:1px dashed;border-bottom:1px dashed;height:1px}",
+				"urls": [],
+				"urlPrefixes": [
+					"http://www.jjwxc.net/search.php"
+				],
+				"domains": [],
+				"regexps": []
+			},
+			{
+				"code": "#adp_h_jjwxc_sy_gg_728_90,#google_ads_div_jjwxc_top_textlink_310_60,IFRAME[width=\"460\"][height=\"60\"],DIV[style=\"position:relative;z-index:0;\"],IMG[height=\"90\"][width=\"120\"],IMG[height=\"60\"][width=\"468\"],IMG[height=\"60\"][width=\"240\"],IMG[width=\"728\"][height=\"60\"],IMG[width=\"984\"][height=\"60\"],TABLE[width=\"984\"][bgcolor=\"#ffffff\"][align=\"center\"],#google_ads_iframe_jjwxc_index_banner3,#google_ads_iframe_jjwxc_index_banner4,#google_flash_div,#adp_jjwxc_channel_240_60,#adp_jjwxc_channel_728_60_2,#adp_jjwxc_channel_728_60_1,#adp_h_jjwxc_index_120_90_right,#google_ads_div_jjwxc_index_banner1,#adp_jjwxc_index_banner1,#adp_jjwxc_index_banner2,#adp_jjwxc_index_banner3,#adp_jjwxc_index_banner4{display:none !important;}",
+				"urls": [],
+				"urlPrefixes": [],
+				"domains": [
+					"tr.jjwxc.net",
+					"ty.jjwxc.net",
+					"yq.jjwxc.net",
+					"dm.jjwxc.net"
+				],
+				"regexps": []
+			},
+			{
+				"code": "*{background:white !important;}a{color:#000 !important;}",
+				"urls": [
+					"http://bbs.jjwxc.net/allhtm/newdiscussforwwwjjwxcnet_2010.htm"
+				],
+				"urlPrefixes": [],
+				"domains": [],
+				"regexps": []
+			}
+		],
+		"url": "http://userstyles.org/styles/30722",
+		"updateUrl": "https://userstyles.org/styles/chrome/30722.json",
+		"md5Url": "https://update.userstyles.org/30722.md5",
+		"originalMd5": "9309cf3e6eb7febce53cc1ad348e7174",
+		"name": "JJWXC - Zero",
+		"enabled": true,
+		"id": 17
+	},
+	{
+		"installDate": 1531383671826,
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"name": "csdn blog",
+		"sections": [
+			{
+				"code": "/* 隐藏 */\ndiv.fourth_column,\ndiv.indexSuperise,\n.recommend-right,\n.csdn-toolbar,\n.pulllog-box,\naside,\n.tool-box,\n.box-box-default,\n.box-box-large,\n.box-box-aways,\n.meau-gotop-box,\n.blog-content-box ~ div {\n    display: none !important;\n}\n\n/* 居中显示文章内容 */\n.container main {\n    position: absolute;\n    left: 15%;\n    width: 70%;\n}\n\n/* 去掉“阅读更多”效果 */\n.hide-article-box {\n    display: none !important;\n}\nmain div.blog-content-box article .article_content {\n    height: auto !important;\n}\n\n/* 文章底部样式 */\nmain div.blog-content-box {\n    margin-bottom: 10px;\n}\nmain div.blog-content-box div.article-bar-bottom {\n    padding-bottom: 0;\n    margin-top: 10px;\n    border-bottom: none;\n}",
+				"urlPrefixes": [
+					"https://blog.csdn.net/"
+				]
+			},
+			{
+				"code": "/* 隐藏顶栏、底栏 */\n.pic_container,\niframe,\n.csdn-toolbar,\n.news-nav,\n.pub_fo {\n    display: none !important;\n}\n\n/* 隐藏广告 */\n#ad_pop,\n.s-hl-content {\n    display: none !important;\n}\n\n/* 隐藏推荐楼 */\n.mod_topic_wrap {\n    display: none;\n}\n.mod_topic_wrap.post {\n    display: block;\n}\n.mod_fun_wrap,\n.login {\n    display: none !important;\n}",
+				"urlPrefixes": [
+					"https://bbs.csdn.net/"
+				]
+			}
+		],
+		"id": 21
+	},
+	{
+		"installDate": 1532309363606,
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"name": "iplaysoft",
+		"sections": [
+			{
+				"code": "#sidebar,\n#share_toolbar_wrapper,\n.crumb_ad,\n.donate,\n.entry-meta div,\n.entry-meta h3,\n.entry-meta .same-cat-post,\n.hidden_components,\n.post div {\n    display: none;\n}\n.post .entry-cat,\n.post .entry-banner,\n.post .entry-content,\n#post_download {\n    display: block;\n}\n#container,\n#content {\n    width: 100%;\n}\n.post .entry-banner {\n    margin: 0 auto;\n}",
+				"urls": [],
+				"urlPrefixes": [
+					"https://www.iplaysoft.com/"
+				],
+				"domains": [],
+				"regexps": []
+			}
+		],
+		"id": 23
+	},
+	{
+		"installDate": 1532933478394,
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"name": "bbs.ngacn.cc",
+		"sections": [
+			{
+				"code": "div#m_posts .null,\ndiv#m_posts_c > span {\n    display: none;\n}",
+				"urls": [],
+				"urlPrefixes": [],
+				"domains": [
+					"bbs.ngacn.cc"
+				],
+				"regexps": []
+			}
+		],
+		"id": 24
+	},
+	{
+		"installDate": 1533086864649,
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"name": "nga.donews.com",
+		"sections": [
+			{
+				"code": "#m_posts_c > span,\n#m_posts_c .null {\n    display: none;\n}",
+				"urls": [],
+				"urlPrefixes": [],
+				"domains": [
+					"nga.donews.com"
+				],
+				"regexps": []
+			}
+		],
+		"id": 25
+	},
+	{
+		"installDate": 1533260561279,
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"name": "www.jb51.net",
+		"sections": [
+			{
+				"code": "/* 隐藏 */\n.topTools,\n.logom.fl,\n.logor.fr,\n.wrap,\n.main.mb10.clearfix,\n.main .w350.fr,\n.article-content.border > div,\n.art_xg,\n.lbd.clearfix.mt5,\n.jb51ewm,\n#footer {\n    display: none;\n}\n\n/* 显示文章内容 */\n.art_desc.mt10,\n#content {\n    display: block !important;\n    margin: 0 auto;\n}\n.bgf {\n    background: transparent !important;\n}\n\n/* 文章内容居中 */\n.main.clearfix.bgf {\n    width: 100%;\n}\n.w750.fl {\n    background: transparent !important;\n    width: 70%;\n    margin: 0 auto;\n    padding: 0;\n    float: none;\n    left: 15%;\n}",
+				"urls": [],
+				"urlPrefixes": [],
+				"domains": [
+					"www.jb51.net"
+				],
+				"regexps": []
+			}
+		],
+		"id": 26
+	},
+	{
+		"enabled": true,
+		"updateUrl": "https://userstyles.org/styles/chrome/165589.json",
+		"md5Url": "https://update.userstyles.org/165589.md5",
+		"url": "http://userstyles.org/styles/165589",
+		"originalMd5": "517ff5e68062bd71ba4c08dd3d5b6da9",
+		"installDate": 1558419200494,
+		"sections": [
+			{
+				"code": "body,\n#b_header {\n    min-width: 900px !important;\n}\n#b_context,\n#ev_talkbox_wrapper {\n    display: none;\n}\nstrong {\n    color: #dd4b39;\n    font-weight: normal;\n}\n#id_h {\n    right: 0;\n}\n#b_header {\n    padding-left: 200px;\n}\n#b_content {\n    padding-left: 300px;\n}\n.b_deep,\n#b_results .b_caption,\n#b_results .b_snippet,\n#b_results .b_attribution,\n#b_results .b_factrow,\n#b_results p,\n#b_context .b_caption,\n#b_context .b_snippet,\n#b_context .b_attribution,\n#b_context .b_factrow,\n#b_context p,\n#snct {\n    line-height: 1.5;\n}",
+				"urlPrefixes": [
+					"https://www.bing.com/search?",
+					"https://cn.bing.com/search?"
+				]
+			},
+			{
+				"code": "#b_footerItems,\n#b_footer {\n    display: none;\n}",
+				"urlPrefixes": [
+					"https://www.bing.com/",
+					"https://cn.bing.com/"
+				]
+			}
+		],
+		"name": "Vivid Bing.com",
+		"originalDigest": "c077a097d9d71a5599ba1ed250948ba934a82aa9",
+		"id": 28,
+		"updateDate": 1558425333081
+	}
+]
