@@ -109,7 +109,7 @@
     "__sd__ddopennew": [
         [
             {
-                "char": "r",
+                "char": "l",
                 "ctrl": false,
                 "meta": false,
                 "shift": false
@@ -119,7 +119,7 @@
     "__sd__ddopennewbg": [
         [
             {
-                "char": "l",
+                "char": "r",
                 "ctrl": false,
                 "meta": false,
                 "shift": false
@@ -148,36 +148,27 @@
         ]
     ],
     "__sd__ddimgsearchimg": null,
-    "__sd__ddimageview": [
-        [
-            {
-                "char": "r",
-                "ctrl": false,
-                "meta": false,
-                "shift": false
-            }
-        ]
-    ],
+    "__sd__ddimageview": null,
     "__sd__ddtxtsearchcrnt": null,
     "__sd__ddtxtsearchnew": [
-        [
-            {
-                "char": "r",
-                "ctrl": false,
-                "meta": false,
-                "shift": false,
-                "url": "https://cn.bing.com/search?q="
-            }
-        ]
-    ],
-    "__sd__ddtxtsearchbg": [
         [
             {
                 "char": "l",
                 "ctrl": false,
                 "meta": false,
                 "shift": false,
-                "url": "https://cn.bing.com/search?q="
+                "url": "http://www.bing.com/search?q="
+            }
+        ]
+    ],
+    "__sd__ddtxtsearchbg": [
+        [
+            {
+                "char": "r",
+                "ctrl": false,
+                "meta": false,
+                "shift": false,
+                "url": "http://www.bing.com/search?q="
             }
         ]
     ],
@@ -257,5 +248,26 @@
     "tablisact": "tabwheel",
     "win": true,
     "openreurlcrnt": null,
-    "openreurlnewtab": null
+    "openreurlnewtab": null,
+    "__sd__ddimageviewbg": [
+        [
+            {
+                "char": "r",
+                "ctrl": false,
+                "meta": false,
+                "shift": false
+            }
+        ]
+    ],
+    "__sd__ddacopytxturl": [
+        [
+            {
+                "char": "d",
+                "ctrl": false,
+                "meta": false,
+                "shift": false
+            }
+        ]
+    ],
+    "__sd__ddacopytxturlhtml": null
 }
